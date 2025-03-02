@@ -17,7 +17,9 @@ $ git clone https://github.com/MohamedRafshan/ChatBot.git
 $ cd ChatBot
 if enviorment created 
 $ .\Raf_venv\Scripts\Activate.ps1
+
 if not 
+
 $ python3 -m venv "NAME"
 $ . "NAME"/bin/activate
 ```
